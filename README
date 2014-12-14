@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5070
+
+maintain each tab different working directory,
+and switch directory automatically when switch tab,
+and can also do custom actions when switch tab,like
+auto reload tags in the new directory, and some other plugin 
+would also benefit from this plugin,like CommandT, grep, working in a 
+sub directory is so mush fast and easy
